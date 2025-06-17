@@ -2,4 +2,4 @@
 command = "pip install -r requirements.txt"
 
 [start]
-command = "python bot.py"
+command = "python controller.py"
